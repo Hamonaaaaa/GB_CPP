@@ -1,0 +1,59 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31948.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/с++/homework/skillboxhomeworkcpp/hw16.5/hw16_5.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "a897ff0bb6e5ca991c338f6207bb42896337fff3c1527414e094cf0f4af32f43"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/с++/homework/skillboxhomeworkcpp/hw16.5/hw16_5.h"
+          },
+          "hashes": {
+            "sha-256": "488989299b3064a251c1c803f4eb370dbb402a479030f0f735c9e496218432be"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/с++/homework/skillboxhomeworkcpp/homework.h"
+          },
+          "hashes": {
+            "sha-256": "580bdec351ac66a1cbe950b6e2fbb003ce406963c0e8d34ad4e7361fbf1dadf9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/с++/homework/skillboxhomeworkcpp/mymetod.h"
+          },
+          "hashes": {
+            "sha-256": "196ce3404a94c5bf1e7115049a879ce1d16e6f9899f256c88d0c4f625a9ef33f"
+          }
+        }
+      ]
+    }
+  ]
+}

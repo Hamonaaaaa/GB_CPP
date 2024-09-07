@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Hw13.4">
+      <UniqueIdentifier>{0c5bbb13-7854-4813-8eff-3f79610ef3e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Hw13.4">
+      <UniqueIdentifier>{ca6f9c2e-7396-43a3-8495-a772e0bbaae5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Hw14.4">
+      <UniqueIdentifier>{b49aaeca-19c2-49d3-bdfe-2e470c13f833}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Hw14.4">
+      <UniqueIdentifier>{203760a3-bce1-4142-ba53-60c0ca303ba7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Hw15.4">
+      <UniqueIdentifier>{15280ba0-acb1-467b-b5dd-64ea683f00e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Hw15.4">
+      <UniqueIdentifier>{a6de250b-3dd1-4d77-aa48-da7a58c974f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Hw16.5">
+      <UniqueIdentifier>{efe83b9c-20c4-48c2-bee3-0c5131c1b374}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Hw16.5">
+      <UniqueIdentifier>{e27708d3-0b1e-43ec-a3ed-c3cbb4b50995}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Hw17.5">
+      <UniqueIdentifier>{f4141f53-3be8-43b3-bd6f-5ca0bb51e0da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Hw17.5">
+      <UniqueIdentifier>{88fd7d7d-47ab-44cd-b94b-c4ffb7b0a595}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Hw18.5">
+      <UniqueIdentifier>{b5db7db0-6ac3-487b-bfdf-d1f21f2810b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Hw18.5">
+      <UniqueIdentifier>{ba28e46e-187c-490e-a987-4ad9415cfcb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Hw19.5">
+      <UniqueIdentifier>{67d80eaa-2d27-4a2c-b25c-8877b5e38027}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Hw19.5">
+      <UniqueIdentifier>{41402d35-54ba-470a-97dd-920d561e6311}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="HomeworcMain.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Hw13.4\Hw13_4.cpp">
+      <Filter>Исходные файлы\Hw13.4</Filter>
+    </ClCompile>
+    <ClCompile Include="Hw14.4\Hw14_4.cpp">
+      <Filter>Исходные файлы\Hw14.4</Filter>
+    </ClCompile>
+    <ClCompile Include="Hw15.4\Hw15_4.cpp">
+      <Filter>Исходные файлы\Hw15.4</Filter>
+    </ClCompile>
+    <ClCompile Include="Hw16.5\Hw16_5.cpp">
+      <Filter>Исходные файлы\Hw16.5</Filter>
+    </ClCompile>
+    <ClCompile Include="Hw17.5\Hw17_5.cpp">
+      <Filter>Исходные файлы\Hw17.5</Filter>
+    </ClCompile>
+    <ClCompile Include="Hw18.5\Hw18_5.cpp">
+      <Filter>Исходные файлы\Hw18.5</Filter>
+    </ClCompile>
+    <ClCompile Include="MyMetod.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Hw19.5\Hw19_5.cpp">
+      <Filter>Исходные файлы\Hw19.5</Filter>
+    </ClCompile>
+    <ClCompile Include="Homework.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Hw13.4\Hw13_4.h">
+      <Filter>Файлы заголовков\Hw13.4</Filter>
+    </ClInclude>
+    <ClInclude Include="Hw14.4\Hw14_4.h">
+      <Filter>Файлы заголовков\Hw14.4</Filter>
+    </ClInclude>
+    <ClInclude Include="Hw15.4\Hw15_4.h">
+      <Filter>Файлы заголовков\Hw15.4</Filter>
+    </ClInclude>
+    <ClInclude Include="Hw16.5\Hw16_5.h">
+      <Filter>Файлы заголовков\Hw16.5</Filter>
+    </ClInclude>
+    <ClInclude Include="Hw17.5\Hw17_5.h">
+      <Filter>Файлы заголовков\Hw17.5</Filter>
+    </ClInclude>
+    <ClInclude Include="Hw18.5\Hw18_5.h">
+      <Filter>Файлы заголовков\Hw18.5</Filter>
+    </ClInclude>
+    <ClInclude Include="Hw18.5\Player.h">
+      <Filter>Файлы заголовков\Hw18.5</Filter>
+    </ClInclude>
+    <ClInclude Include="MyMetod.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Hw19.5\Hw19_5.h">
+      <Filter>Файлы заголовков\Hw19.5</Filter>
+    </ClInclude>
+    <ClInclude Include="Hw19.5\Animal.h">
+      <Filter>Файлы заголовков\Hw19.5</Filter>
+    </ClInclude>
+    <ClInclude Include="Homework.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

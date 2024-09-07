@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>D:\С++\Homework\skillboxhomeworkcpp\</FILEPATH>
+      <FILENAME>HomeworcMain.cpp</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Не пытайтесь объявить локальную переменную без имени (es.84).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\С++\Homework\skillboxhomeworkcpp\</FILEPATH>
+      <FILENAME>HomeworcMain.cpp</FILENAME>
+      <LINE>45</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Не пытайтесь объявить локальную переменную без имени (es.84).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\С++\Homework\skillboxhomeworkcpp\</FILEPATH>
+      <FILENAME>HomeworcMain.cpp</FILENAME>
+      <LINE>48</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Не пытайтесь объявить локальную переменную без имени (es.84).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\С++\Homework\skillboxhomeworkcpp\</FILEPATH>
+      <FILENAME>HomeworcMain.cpp</FILENAME>
+      <LINE>51</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Не пытайтесь объявить локальную переменную без имени (es.84).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\С++\Homework\skillboxhomeworkcpp\</FILEPATH>
+      <FILENAME>HomeworcMain.cpp</FILENAME>
+      <LINE>54</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Не пытайтесь объявить локальную переменную без имени (es.84).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\С++\Homework\skillboxhomeworkcpp\</FILEPATH>
+      <FILENAME>HomeworcMain.cpp</FILENAME>
+      <LINE>57</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Не пытайтесь объявить локальную переменную без имени (es.84).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\С++\Homework\skillboxhomeworkcpp\</FILEPATH>
+      <FILENAME>HomeworcMain.cpp</FILENAME>
+      <LINE>60</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Не пытайтесь объявить локальную переменную без имени (es.84).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
